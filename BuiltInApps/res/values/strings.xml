@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BuiltInApps</string>
+    <string name="action_settings">BuiltInApps</string>
+    <string name="browser_button">Web Browser</string>
+    <string name="call_button">Phone Dailer</string>
+    <string name="my_activity_button">My Activity</string>
+
+</resources>

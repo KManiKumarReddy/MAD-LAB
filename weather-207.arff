@@ -1,0 +1,24 @@
+@relation weather.symbolic-weka.filters.unsupervised.attribute.Add-Nmk-C6
+
+@attribute outlook {sunny,overcast,rainy}
+@attribute temperature {hot,mild,cool}
+@attribute humidity {high,normal}
+@attribute windy {TRUE,FALSE}
+@attribute play {yes,no}
+@attribute mk numeric
+
+@data
+sunny,hot,high,FALSE,no,523423
+sunny,hot,high,TRUE,no,21312312
+overcast,hot,high,FALSE,yes,545445
+rainy,mild,high,FALSE,yes,5445
+rainy,cool,normal,FALSE,yes,54454
+rainy,cool,normal,TRUE,no,4554
+overcast,cool,normal,TRUE,yes,54545
+sunny,mild,high,FALSE,no,544
+sunny,cool,normal,FALSE,yes,45445
+rainy,mild,normal,FALSE,yes,455
+sunny,mild,normal,TRUE,yes,54544
+overcast,mild,high,TRUE,yes,544545
+overcast,hot,normal,FALSE,yes,4545
+rainy,mild,high,TRUE,no,?

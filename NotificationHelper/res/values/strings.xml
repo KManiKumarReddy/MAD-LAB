@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification_button">Send Notification</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="notification_details">Here are the details of the notification</string>
+
+</resources>
